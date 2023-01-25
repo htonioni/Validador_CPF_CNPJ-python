@@ -16,5 +16,5 @@ A validação de CPF e CNPJ é feita através de algoritmos de verificação, qu
 Com um `  git clone  ` deste repositório, o usuário pode executar este código em sua maquina, apenas precisa  inserir o número de CPF ou CNPJ a ser validado, e a ferramenta retornará se o número é válido ou inválido, além do número formatado em seu respectivo padrão.
 
 ---
-Este projeto pode ser desenvolvido em qualquer linguagem de programação, como Python, Java, C#, entre outras. Ele pode ser disponibilizado como uma biblioteca, um serviço web ou uma aplicação standalone.
+Este projeto pode ser desenvolvido em qualquer linguagem de programação, como Python, Java, C#, entre outras. Ele pode ser disponibilizado como uma biblioteca, um serviço web ou uma aplicação standalone.  
 Projeto realizado na plataforma [Alura] na formação _"Python e orientação a objetos"_
