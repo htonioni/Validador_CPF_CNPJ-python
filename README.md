@@ -13,7 +13,7 @@ A validação de CPF e CNPJ é feita através de algoritmos de verificação, qu
 
 ### Como utilizar o validador?
 
-Com um `  git clone  ` deste repositório, o usuário pode executar este código em sua maquina, apenas precisa  inserir o número de CPF ou CNPJ a ser validado, e a ferramenta retornará se o número é válido ou inválido, além do número formatado em seu respectivo padrão.
+Com um ` git clone ` deste repositório, o usuário pode executar este código em sua maquina, apenas precisa  inserir o número de CPF ou CNPJ a ser validado, e a ferramenta retornará se o número é válido ou inválido, além do número formatado em seu respectivo padrão.
 
 ---
 Este projeto pode ser desenvolvido em qualquer linguagem de programação, como Python, Java, C#, entre outras. Ele pode ser disponibilizado como uma biblioteca, um serviço web ou uma aplicação standalone.  
